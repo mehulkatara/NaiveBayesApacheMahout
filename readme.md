@@ -27,7 +27,7 @@ Steps to be followed in Mahout
 6. Training the model with training dataset
 7. Test the model with the testing dataset
 
-Steps 1 : Getting the 20 Newsgroups dataset ?
+Steps 1 : Getting the 20 Newsgroups dataset
 ========================================================
 
 - The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups.
